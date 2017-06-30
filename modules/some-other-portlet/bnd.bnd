@@ -1,0 +1,3 @@
+Bundle-Name: some-other-portlet
+Bundle-SymbolicName: some.other.portlet
+Bundle-Version: 1.0.0
